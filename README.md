@@ -1,2 +1,2 @@
 # Live-editor
-## Simple live edetor for HTML, CSS, JavaScript
+## Simple live editor for HTML, CSS, JavaScript
